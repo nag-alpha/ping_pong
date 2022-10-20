@@ -8,7 +8,7 @@ Instructions to play :
 
 1.3 : A blank command prompt will open for a brief seconds. Do not panic.
 
-2. Ping-Pong game will start running.
+2 : Ping-Pong game will start running.
 
 2.1 : It is a 2-player game. Right paddle can be controlled by UP and DOWN arrow keys. Left paddle can be controlled by ' w ' and ' s ' keys.
 
